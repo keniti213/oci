@@ -3,6 +3,9 @@
 # This software is dual-licensed to you under the Universal Permissive License (UPL) 1.0 as shown 
 # at https://oss.oracle.com/licenses/upl or Apache License 2.0 as shown 
 # at http://www.apache.org/licenses/LICENSE-2.0. You may choose either license.
+# This is a modified version of the example provided at 
+# https://github.com/oracle/oci-python-sdk/blob/master/examples/object_crud.py and is intended
+# for learning purposes only, not being entitled to any kind of support from Oracle.
 
 import filecmp
 import oci
